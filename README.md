@@ -15,7 +15,6 @@
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black">
-
 </div>
 #### I've used it before.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
