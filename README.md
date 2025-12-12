@@ -13,7 +13,10 @@
 <br />
 <br />
 
+
 ![chanhue's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanhue&show_icons=true&theme=radical)
+
+![chanhue's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=chanhue&theme=radical)
 
 ## Stacks
 
